@@ -14,9 +14,8 @@ Welcome to the Spotify Clone project repository! This project aims to replicate 
 
 - **Backend**: Django
 - **Frontend**: HTML, CSS, JavaScript
-- **Database**: SQLite/PostgreSQL
+- **Database**: SQLite
 - **Version Control**: Git
-- **Deployment**: Heroku
 
 ## Getting Started
 
@@ -24,18 +23,11 @@ To get started with the Spotify Clone project:
 
 1. Clone this repository to your local machine.
 2. Install dependencies using the provided requirements.txt file.
-3. Configure your Django settings and database settings as needed.
-4. Run the Django development server.
-5. Access the application through your web browser and start streaming music!
+3. Run the Django development server by: python manage.py runserver.
+4. Access the application through your web browser and start streaming music!
 
 ## Contributing
 
 Contributions to the Spotify Clone project are welcome! Whether you want to report a bug, suggest a new feature, or submit a pull request, please feel free to contribute to the project. For major changes, please open an issue first to discuss potential changes with the project maintainers.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Acknowledgements
-
-We would like to thank the Django community for providing a robust web framework and the open-source community for their contributions and support.
+Happy Coding!
