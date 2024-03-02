@@ -5,4 +5,5 @@ A Django project replicating Spotify functionalities. Features user authenticati
 You can run it by following these steps:
 
 pip install -r requirements.txt
+
 python manage.py runserver
