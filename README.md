@@ -30,4 +30,12 @@ To get started with the Spotify Clone project:
 
 Contributions to the Spotify Clone project are welcome! Whether you want to report a bug, suggest a new feature, or submit a pull request, please feel free to contribute to the project. For major changes, please open an issue first to discuss potential changes with the project maintainers.
 
+## Contact:
+
+For inquiries or support, please reach out to dhruvgolani0504@gmail.com.
+
+## Note:
+
+This project serves educational and demonstration purposes exclusively. Please use it responsibly and in accordance with Amazon's terms of service and API usage policies. Any commercial use of this project may lead to legal implications.
+
 Happy Coding!
