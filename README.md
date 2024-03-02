@@ -4,18 +4,19 @@ Welcome to the Spotify Clone project repository! This project aims to replicate 
 
 Features:
 
-User Authentication: Secure user authentication and authorization mechanisms ensure user data privacy and account security.
+1.User Authentication: Secure user authentication and authorization mechanisms ensure user data privacy and account security.
 
-Playlist Management: Create, edit, and manage playlists with ease, allowing users to curate their personalized music collections.
+2.Playlist Management: Create, edit, and manage playlists with ease, allowing users to curate their personalized music collections.
 
-Music Streaming: Stream music seamlessly with interactive player controls, offering a smooth and immersive listening experience.
+3.Music Streaming: Stream music seamlessly with interactive player controls, offering a smooth and immersive listening experience.
 
-Search Functionality: Discover and explore a vast library of music with robust search capabilities, enabling users to find their favorite tracks effortlessly.
+4.Search Functionality: Discover and explore a vast library of music with robust search capabilities, enabling users to find their favorite tracks effortlessly.
 
-Responsive Design: The application is designed with responsive layouts and components, ensuring optimal viewing experiences across various devices and screen sizes.
+5.Responsive Design: The application is designed with responsive layouts and components, ensuring optimal viewing experiences across various devices and screen sizes.
 
 
 Technologies Used
+
 Backend: Django
 
 Frontend: HTML, CSS, JavaScript
